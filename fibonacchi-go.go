@@ -50,5 +50,5 @@ func main() {
 		}
 	}
 
-	fmt.Printf("Fibonacci numbers up to %d are written to the %s\n file", n, outputFileName)
+	fmt.Printf("Fibonacci numbers up to %d are written to the %s file\n", n, outputFileName)
 }
