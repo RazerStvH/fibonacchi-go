@@ -9,7 +9,7 @@ $ go build fibonacchi-go.go
 ```
 If you want to install
 ```bash
-$ sudo cp fibonachhi-go /usr/bin
+$ sudo cp fibonacchi-go /usr/bin
 ```
 ## Usage
 ```bash
